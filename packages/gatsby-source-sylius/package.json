@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Gatsbylius/Gatsbylius",
   "license": "ISC",
   "dependencies": {
-    "gatsby-source-filesystem": "^2.1.47",
+    "gatsby-source-filesystem": "^3.11.0",
     "got": "^9.6.0"
   },
   "devDependencies": {
@@ -16,6 +16,6 @@
     "test": "jest --watch"
   },
   "peerDependencies": {
-    "gatsby": "^2.19.12"
+    "gatsby": "^3.11.1"
   }
 }
